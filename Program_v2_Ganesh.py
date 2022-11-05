@@ -1,4 +1,5 @@
 #main program version 2 
+# fixed inputs. speciallized based on clients request
 #--> Dynamic inputs     --> Validation 
 
 from Timer import *
